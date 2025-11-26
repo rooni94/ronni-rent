@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot 2025-11-26 040442" src="https://github.com/user-attachments/assets/0078d824-66a8-483c-98b0-f32a034487e7" />Ronni Rent – Car Rental Website 🚗✨
+Ronni Rent – Car Rental Website 🚗✨
 
 موقع احترافي لتأجير السيارات تم تطويره باستخدام React + Vite مع دعم اللغة العربية ومحاذاة RTL، ويعمل بكفاءة على كل من GitHub Pages و Hostinger.
 
@@ -116,7 +116,8 @@ project/
 │── vite.config.mjs (أو .ts)
 │── README.md
 ```
-
+<img width="1366" height="768" alt="Screenshot 2025-11-26 040442" src="https://github.com/user-attachments/assets/29abedfc-fcf5-41dc-bab7-bd53fbf174cf" />
+<img width="1366" height="768" alt="Screenshot 2025-11-26 040442" src="https://github.com/user-attachments/assets/0078d824-66a8-483c-98b0-f32a034487e7" />
 ---
 
 ## ⚙️ **إعداد Vite للموقع على Hostinger**
