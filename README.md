@@ -115,6 +115,7 @@ Hostinger (رفع dist داخل public_html)
 Vite Configuration
 
 📂 هيكلة الملفات
+
 project/
 │── public/
 │── src/
@@ -129,6 +130,7 @@ project/
 │── package.json
 │── vite.config.mjs (أو .ts)
 │── README.md
+
 
 ⚙️ إعداد Vite للموقع على Hostinger
 
