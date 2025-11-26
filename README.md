@@ -97,6 +97,7 @@ For development or customization:
 * Vite Configuration
 
 ---
+<img width="1366" height="3680" alt="rental ronnidev com-روني لتأجير السيارات-fpscreenshot (1)" src="https://github.com/user-attachments/assets/53d79366-8af3-4fd9-869b-3c45c26dda8f" />
 
 ## 📂 **هيكلة الملفات**
 
@@ -116,8 +117,7 @@ project/
 │── vite.config.mjs (أو .ts)
 │── README.md
 ```
-<img width="1366" height="768" alt="Screenshot 2025-11-26 040442" src="https://github.com/user-attachments/assets/29abedfc-fcf5-41dc-bab7-bd53fbf174cf" />
-<img width="1366" height="768" alt="Screenshot 2025-11-26 040442" src="https://github.com/user-attachments/assets/0078d824-66a8-483c-98b0-f32a034487e7" />
+
 ---
 
 ## ⚙️ **إعداد Vite للموقع على Hostinger**
